@@ -1,0 +1,72 @@
+.body {
+    background-color: rgb(17, 17, 17);
+    color: beige;
+    margin: 50px;
+}
+
+.container1 {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.container2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.name {
+    margin-left: 200px;
+    font-family: 'Istok Web', sans-serif;
+    font-size: 24px;
+}
+
+.info {
+    margin-left: 50px;
+    font-size: 24px;
+    font-family: 'Istok Web', sans-serif;
+}
+
+.container3 {
+    display: flex;
+    justify-content: flex-start;
+    list-style-type: none;
+    font-family: 'Istok Web', sans-serif;
+    color: rgb(181, 202, 228);   
+}
+
+.item {
+    display: flex;
+    margin-right: 50px;
+}
+
+.container4 {
+    
+}
+
+.container5 {
+    margin-top: 50px;
+    text-align: center;
+}
+
+.circleimg {
+    display: inline-block;
+    border-radius: 75%;
+    overflow: hidden;
+    width: 200px;
+    height: 200px;
+    margin-right: 50px;
+}
+.container6 {
+    margin-top: 50px;
+    text-align: center;
+}
+
+.theme {
+    margin-top: 50px;
+    text-align: center;
+}
+
+.items {
+    text-align: left;
+}
